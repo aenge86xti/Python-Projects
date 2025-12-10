@@ -15,8 +15,8 @@
             <mxPoint x="1" y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yDKCR6jDsv-m65JaW52q-1" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" value="" vertex="1">
-          <mxGeometry height="62.4" width="80" x="345" y="190" as="geometry" />
+        <mxCell id="yDKCR6jDsv-m65JaW52q-1" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" value="Router" vertex="1">
+          <mxGeometry height="62.4" width="80" x="343.38" y="160" as="geometry" />
         </mxCell>
         <mxCell id="yDKCR6jDsv-m65JaW52q-2" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="" vertex="1">
           <mxGeometry height="80" width="80" x="345" y="330" as="geometry" />
@@ -30,13 +30,13 @@
         <mxCell id="yDKCR6jDsv-m65JaW52q-17" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=south;" value="" vertex="1">
           <mxGeometry height="60" width="200" x="440" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="yDKCR6jDsv-m65JaW52q-18" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="" vertex="1">
+        <mxCell id="yDKCR6jDsv-m65JaW52q-18" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" value="Desktop" vertex="1">
           <mxGeometry height="70" width="63.57" x="80" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="yDKCR6jDsv-m65JaW52q-19" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" value="" vertex="1">
+        <mxCell id="yDKCR6jDsv-m65JaW52q-19" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" value="Laptop" vertex="1">
           <mxGeometry height="67.51" width="60.75" x="353" y="431.95" as="geometry" />
         </mxCell>
-        <mxCell id="yDKCR6jDsv-m65JaW52q-20" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" value="" vertex="1">
+        <mxCell id="yDKCR6jDsv-m65JaW52q-20" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" value="Printer" vertex="1">
           <mxGeometry height="70" width="70" x="590" y="440" as="geometry" />
         </mxCell>
       </root>
