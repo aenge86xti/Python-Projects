@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XSDNPW9pk2-APk2wPH3M-2" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" value="Router" vertex="1">
-          <mxGeometry height="80" width="80" x="374" y="250" as="geometry" />
+          <mxGeometry height="100" width="94" x="360" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="XSDNPW9pk2-APk2wPH3M-4" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+        <mxCell id="XSDNPW9pk2-APk2wPH3M-4" edge="1" parent="1" style="shape=link;html=1;rounded=0;" target="dF5A3PQzYijJ_tsmY89r-1" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <mxPoint x="414" y="360" as="sourcePoint" />
             <mxPoint x="414" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dF5A3PQzYijJ_tsmY89r-1" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="Switch" vertex="1">
-          <mxGeometry height="80" width="80" x="374" y="505" as="geometry" />
+          <mxGeometry height="100" width="130" x="350" y="500" as="geometry" />
         </mxCell>
         <mxCell id="dF5A3PQzYijJ_tsmY89r-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Administration" vertex="1">
           <mxGeometry height="60" width="120" x="130" y="710" as="geometry" />
@@ -24,6 +24,27 @@
         </mxCell>
         <mxCell id="dF5A3PQzYijJ_tsmY89r-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IT" vertex="1">
           <mxGeometry height="60" width="120" x="590" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="dF5A3PQzYijJ_tsmY89r-7" edge="1" parent="1" source="dF5A3PQzYijJ_tsmY89r-10" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="dF5A3PQzYijJ_tsmY89r-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="680" as="sourcePoint" />
+            <mxPoint x="650" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dF5A3PQzYijJ_tsmY89r-10" parent="1" style="line;strokeWidth=2;html=1;" value="" vertex="1">
+          <mxGeometry height="10" width="470" x="180" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="dF5A3PQzYijJ_tsmY89r-14" edge="1" parent="1" source="dF5A3PQzYijJ_tsmY89r-10" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="660" as="sourcePoint" />
+            <mxPoint x="180" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dF5A3PQzYijJ_tsmY89r-17" edge="1" parent="1" source="dF5A3PQzYijJ_tsmY89r-10" style="endArrow=classic;html=1;rounded=0;exitX=0.502;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="415" y="640" as="sourcePoint" />
+            <mxPoint x="415.32" y="709" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
