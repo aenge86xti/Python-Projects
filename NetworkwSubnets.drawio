@@ -13,6 +13,18 @@
             <mxPoint x="414" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dF5A3PQzYijJ_tsmY89r-1" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="Switch" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="dF5A3PQzYijJ_tsmY89r-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Administration" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="dF5A3PQzYijJ_tsmY89r-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sales" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="dF5A3PQzYijJ_tsmY89r-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IT" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="710" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
